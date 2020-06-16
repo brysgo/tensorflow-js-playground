@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^0.8.0",
+    "@tensorflow/tfjs": "^2.0.1",
     "jest": "^22.4.3",
     "jest-environment-node": "^22.4.3",
     "jest-environment-puppeteer": "^2.3.0",
